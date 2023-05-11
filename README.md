@@ -32,7 +32,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Morse Code] <a name="about-project"></a>
+# 📖 [Create_enumerable] <a name="about-project"></a>
 
 **[Create_enumerable]** is created using Ruby.
 
@@ -100,7 +100,7 @@ This project does not require installation.
 **To run the project follow the following instruction:-**
 
 - Clone this [repository](https://github.com/maov19/create-enumerable) in your local machine with correct branch.
-- Run **ruby morse_code.rb**
+- Run **ruby my_enumerable.rb**
 
 ### Run tests
 
